@@ -1,0 +1,10 @@
+# Uneccessary files
+.DS_Store
+*~
+*.swp
+
+# No binaries
+*.bin
+
+# Vagrant
+.vagrant
